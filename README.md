@@ -16,7 +16,10 @@ it outperforms many RST methods while only having a low complexity linear to the
 
 + **GYAST**: Arjomandi-Lari, Mostafa, and Mahmood Karimi. "Generalized YAST algorithm for signal subspace tracking." Signal Process. 117 (2015): 82-95.
 
++ **ROBUSTA**: Linh-Trung, Nguyen, et al. "Low-complexity adaptive algorithms for robust subspace tracking." IEEE J. Sel. Topics Signal Process. 12.6 (2018): 1197-1212.
+
 + **RYAST**: Nguyen, Viet-Dung, Nguyen Linh Trung, and Karim Abed-Meraim. "Robust subspace tracking algorithms using fast adaptive Mahalanobis distance." Signal Process. 195 (2022): 108402.
+
 
 + **TRPAST**: A. M. Rekavandi, A.-K. Seghouane, and K. Abed-Meraim, “TRPAST: A tunable and robust projection approximation subspace tracking method,” IEEE Trans. Signal Process. (2022). 
 
