@@ -45,4 +45,4 @@ it outperforms many RST methods while only having a low complexity linear to the
 
 This code is free and open source for research purposes. If you use this code, please acknowledge the following paper.
 
-[1] **L.T. Thanh**, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim. “[*Robust Subspace Tracking with Contamination Mitigation via Alpha-Divergence*](https://)”. **TechRxiv**, 2022. [[PDF]](https://thanhtbt.github.io/files/2023_aFAPI.pdf).
+[1] **L.T. Thanh**, A.M. Rekavandi, S. Abd-Krim, & K. Abed-Meraim. “[*Robust Subspace Tracking with Contamination Mitigation via Alpha-Divergence*](https://www.techrxiv.org/articles/preprint/Robust_Subspace_Tracking_With_Contamination_Mitigation_via_-Divergence/21385335)”. **TechRxiv**, 2022. [[PDF]](https://thanhtbt.github.io/files/2023_aFAPI.pdf).
